@@ -1,0 +1,33 @@
+.sk {
+
+    display: flex;
+    height: 540px;
+    box-sizing: border-box;
+    font-style: oblique;
+    font-weight: bold;
+    border-width: 4px;
+    border-color: hotpink;
+    border-style: dotted;
+ background-image: url(https://images.unsplash.com/photo-1481277542470-605612bd2d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fGxpZ2h0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    font-size: larger;
+   
+
+}
+
+.va {
+    flex-basis: 100%;
+    padding: 8px 500px;
+  
+}
+
+
+
+button {
+    background:hotpink;
+    width: 100px;
+    
+    outline-style: groove;
+    color:black;
+    height: 35px;
+    border-radius: 10px;
+}
